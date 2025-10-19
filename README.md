@@ -2,6 +2,9 @@
 ## AIM: 
 To write a C program to read only positive integer value from the user and display the same value as output.
 
+## For example:
+<img width="152" height="115" alt="image" src="https://github.com/user-attachments/assets/1a78541b-c3db-4563-b5ac-de454acb9cff" />
+
 ## Program:
 ```c
 #include <stdio.h>
