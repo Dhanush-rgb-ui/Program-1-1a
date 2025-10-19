@@ -3,6 +3,7 @@
 To write a C program to read only positive integer value from the user and display the same value as output.
 
 ## For example:
+## Program:
 ***
 #include <stdio.h>
 int main()
