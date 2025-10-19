@@ -16,5 +16,7 @@ int main()
 }
 ```
 ## Output:
-![<img width="1208" height="262" alt="image" src="https://github.com/user-attachments/assets/9232ad9c-433f-428b-8324-b1b090f484df" />](images/screenshot.png)
+<img width="1208" height="262" alt="image" src="https://github.com/user-attachments/assets/43786fea-403a-472a-80a8-89b064622ef3" />
+
+
 
