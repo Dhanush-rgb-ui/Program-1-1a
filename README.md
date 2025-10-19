@@ -19,6 +19,7 @@ int main()
 }
 ```
 ## Output:
-<img width="1208" height="262" alt="image" src="https://github.com/user-attachments/assets/43786fea-403a-472a-80a8-89b064622ef3" />
+<img width="327" height="195" alt="image" src="https://github.com/user-attachments/assets/d6263078-073e-4ca1-b316-0e0c0201a725" />
+
 
 
