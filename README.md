@@ -4,6 +4,7 @@ To write a C program to read only positive integer value from the user and displ
 
 ## For example:
 ## Program:
+pattern.c
 ***
 #include <stdio.h>
 int main()
